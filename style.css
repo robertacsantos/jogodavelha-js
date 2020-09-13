@@ -1,0 +1,228 @@
+body{
+    margin: 0;
+    background-color: #FFF;
+    font-family: 'Patrick Hand', cursive;
+}
+
+nav{
+    background-color: #48D1CC;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+}
+
+nav h1{
+    font-size: 32pt;
+    color: black;
+}
+p{
+    font-size: 18pt;
+}
+
+.placar{
+
+    align-items: center;
+    background-image: linear-gradient(#48D1CC, #E0FFFF);
+    display: flex;
+    flex-direction: column;
+    /* margin: 0 0 15px 0; */
+}
+
+.placar h2{
+    font-size: 25pt;
+}
+
+.valores{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+
+.valores div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+section{
+
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    justify-content: center;
+    /* margin: 10px; */
+    align-items: center;
+    background-image: linear-gradient( #E0FFFF, #00CED1);
+}
+
+.linhas{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.linhas div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60pt;
+    height: 100%;
+    justify-content: center;
+    width: 170px;
+}
+
+.borda1{
+
+    border-top: 5px solid black;
+}
+
+.borda2{
+
+    border-right: 5px solid black;
+}
+
+footer{
+
+    background-color:#00CED1;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* margin: 20px 0 0 0; */
+}
+
+footer p{
+    color: black;
+    font-size: 12pt;
+}
+
+button{
+
+    background-color: #005757;
+    border-radius: 10px;
+    color: white;
+    margin: 10px 10px;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
